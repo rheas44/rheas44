@@ -1,4 +1,3 @@
-<!--
 - Current Undergraduate Computer Science and Engineering student at the Ohio State University (class of 2025)
 
 My Linkedin profile: https://www.linkedin.com/in/rhea-supekar
@@ -13,4 +12,3 @@ https://www.youtube.com/watch?v=qoylylTXBks
 Engineering Robot Design Project documentation website:
 
 https://u.osu.edu/feh231240f/
--->
