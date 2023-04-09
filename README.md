@@ -1,4 +1,4 @@
-Current Undergraduate Computer Science and Engineering student at the Ohio State University (class of 2025)
+Current Undergraduate Computer Science and Engineering student at the Ohio State University graduating May 2025
 
 My Linkedin profile: https://www.linkedin.com/in/rhea-supekar
 
